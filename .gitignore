@@ -1,0 +1,19 @@
+# Environment files
+.env
+
+# Dependency directories
+vendor/
+
+# Editor-specific files
+.vscode/
+
+# Composer lock file (optional)
+composer.lock
+
+# assets files
+assets/products/*
+assets/profile/*
+
+# Unignore
+!assets/profile/default.png
+!assets/products/.gitkeep
